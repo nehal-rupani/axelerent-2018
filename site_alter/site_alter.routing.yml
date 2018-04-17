@@ -1,0 +1,7 @@
+site_alter.node_json_output:
+  path: '/node_json/{site_api_key}/{nid}'
+  defaults:
+    _controller: '\Drupal\site_alter\Controller\NodeJsonController::loadNodeJson'
+    _title: 'Json Output of node'
+  requirements:
+    _permission: 'access content'

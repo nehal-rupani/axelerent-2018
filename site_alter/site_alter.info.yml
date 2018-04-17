@@ -1,0 +1,7 @@
+name: Site Information alter
+core: 8.x
+description: Adding site api key in site information form & JSON Output.
+package: Axelerant test
+type: module
+dependencies:
+  - serialization
