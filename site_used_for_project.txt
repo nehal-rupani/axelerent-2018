@@ -1,0 +1,5 @@
+major reference taken to execute task
+
+https://drupal.stackexchange.com/questions/191419/drupal-8-node-serialization-to-json/191474
+https://www.drupal.org/docs/8/api/routing-system/using-parameters-in-routes
+http://befused.com/drupal/form-alter
